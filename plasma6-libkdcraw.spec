@@ -5,7 +5,7 @@
 
 Summary:	C++ interface around LibRaw library
 Name:		plasma6-libkdcraw
-Version:	24.01.90
+Version:	24.01.95
 Release:	1
 License:	GPLv2+
 Group:		System/Libraries
